@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsredessociales-dev-195504-authRole",
+      "UnauthRoleArn": "arn:aws:iam::274246375281:role/amplify-awsredessociales-dev-195504-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::274246375281:role/amplify-awsredessociales-dev-195504-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-awsredessociales-dev-195504-deployment",
+      "UnauthRoleName": "amplify-awsredessociales-dev-195504-unauthRole",
+      "StackName": "amplify-awsredessociales-dev-195504",
+      "StackId": "arn:aws:cloudformation:us-east-1:274246375281:stack/amplify-awsredessociales-dev-195504/f069a8e0-6d24-11ed-86b4-0e8d6118be6f",
+      "AmplifyAppId": "d34z5cd3g36owx"
+    },
+    "categories": {
+      "auth": {
+        "awsredessociales47546665": {}
+      }
+    }
+  }
+}
